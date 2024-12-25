@@ -1,0 +1,22 @@
+.heading{
+  font-size: larger;
+}
+.card{
+  align-items: center;
+}
+.login-img{
+  width: 100%;
+}
+.input-group {
+  display: flex;
+  align-items: center;
+}
+
+.input-group .form-control {
+  flex: 1;
+}
+
+.input-group .btn {
+  border-left: none; /* Optional: Remove border between input and button */
+  cursor: pointer;
+}
